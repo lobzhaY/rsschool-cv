@@ -34,5 +34,6 @@ const onSelectCategory = React.useCallback((index) => {
     * Redev(react)
     * It-academy "Step"
 ***
-### English
-**A2**
+### Languages
+* English **A2**
+* Spanish **A1**

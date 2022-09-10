@@ -26,7 +26,8 @@ const onSelectCategory = React.useCallback((index) => {
   ```
 ***
 ### Experience
-----
+2015-2022 - Worked in the service sector.
+***
 ### Education
 * **Belarusian State University**, Faculty of Journalism, specialty - journalism (audiovisual media)
 * Courses:
